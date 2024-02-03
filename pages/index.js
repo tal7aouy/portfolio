@@ -154,7 +154,7 @@ export default function Home() {
             >
               <Typed
                 strings={[
-                  "hi, <mark class='highlight-word-banner'>Software | AI(DL,ML) engineer</mark>.",
+                  "hi, <mark class='highlight-word-banner'>Software | AI engineer</mark>.",
                 ]}
                 startDelay={1500}
                 typeSpeed={45}
@@ -171,11 +171,7 @@ export default function Home() {
                     color: highlightColor[colorMode],
                   }}
                 >
-                  I&apos;m Med Talhaouy. Working @Maxmind , have a strong
-                  background in web dev and a passion for creating elegant and
-                  efficient solutions. I may not take myself very seriously but
-                  take my job very seriously and loves solving problems instead
-                  of complaining about them.
+                  I&apos;m Med Talhaouy. Working @Maxmind , specializing in web development with a strong inclination towards crafting elegant and efficient deep learning solutions. While I approach life with a light-hearted attitude, my commitment to my work is unwavering. I am passionate about problem-solving, consistently choosing to confront challenges head-on rather than dwelling on them.
                 </Highlight>
               </Paragraph>
             </Box>
@@ -232,21 +228,7 @@ export default function Home() {
               </Heading>
               <Box fontSize={['sm', null, 'md', null, null, null]}>
                 <BioSection>
-                  <Paragraph>You can follow me on  <Link href='https://github.com/tal7aouy' target='_blank'>
-        <Button
-          aria-label='Open Github'
-          leftIcon={<Icon mr={-2} as={IoLogoTwitter} />}
-          borderRadius={'5px'}
-          p={0}
-          color={socialIconColor[colorMode]}
-          bg={socialBgColor[colorMode]}
-          fontSize={['lg', 'md', null, null, null, null]}
-          _hover={{
-            color: '#e5e5e5',
-            bg: socialHoverBg[colorMode],
-          }}
-        ></Button>
-      </Link>, I mostly used <b>Node.js</b>, <b>Laravel</b>, <b>PyTorch</b> .
+                  <Paragraph>I mostly used <b>Laravel</b>, <b>Node.js</b>, <b>PyTorch</b> .
 Outside of programming, I enjoy doing Video editing and traveling. If you happen to be in the same city I live (currently in <b>Casablanca</b>), maybe we can hang out or work on something together.</Paragraph>
                 </BioSection>
               
