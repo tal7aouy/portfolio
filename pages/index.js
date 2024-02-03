@@ -123,7 +123,7 @@ export default function Home() {
   return (
     <Container>
       <Head>
-        <title>tal7aouy-Software eng</title>
+        <title>tal7aouy</title>
         <link rel='shortcut icon' href='/favicon.ico' />
       </Head>
       <Stack
@@ -154,7 +154,7 @@ export default function Home() {
             >
               <Typed
                 strings={[
-                  "hi, <mark class='highlight-word-banner'>Software | AI engineer</mark>.",
+                  "hi, <mark class='highlight-word-banner'>I am a Software | AI engineer</mark>.",
                 ]}
                 startDelay={1500}
                 typeSpeed={45}
