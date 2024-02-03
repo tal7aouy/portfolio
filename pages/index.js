@@ -261,7 +261,7 @@ Outside of programming, I enjoy doing Video editing and traveling. If you happen
                 boxShadow={componentsBoxShadow[colorMode]}
                 maxWidth={[null, null, '180px', '200px', null]}
                 borderRadius='full'
-                src='/images/profile.jpg'
+                src='/images/profile.jpeg'
                 alt='Profile Image'
               />
             </Box>
