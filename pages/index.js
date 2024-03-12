@@ -154,7 +154,7 @@ export default function Home() {
             >
               <Typed
                 strings={[
-                  "hi, <mark class='highlight-word-banner'>I am a Software | AI engineer</mark>.",
+                  "hi, <mark class='highlight-word-banner'>I am an NLP engineer 🧠🛠️✨</mark>.",
                 ]}
                 startDelay={1500}
                 typeSpeed={45}
